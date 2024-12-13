@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reu-nathaniel
+- 👋 Hi, I’m @reubennathaniel
 - 👀 I’m interested in Artificial Intelligence, and creative coding. 
 - 🌱 I’m currently learning Artificial Intelligence and Sustainable Technologies.
 - 💞️ I’m looking to collaborate on Musical projects, or sustainability related projects. 
